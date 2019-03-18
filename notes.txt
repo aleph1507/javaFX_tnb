@@ -1,0 +1,34 @@
+Run
+Run/Debug Configurations
+
+--module-path /home/alephone/java/javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls,javafx.fxml
+
+
+
+File
+
+Project Structure
+
+Modules | Libraries 
+
++ 
+
+/home/alephone/java/javafx-sdk-11.0.2/lib/
+
+
+
+win32
+Run
+Run/Debug Configurations
+
+--module-path C:\work\java\javaFX\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml
+
+
+
+File Project Structure
+
+Modules | Libraries 
+
++ 
+
+C:\work\java\javaFX\javafx-sdk-11.0.2\lib
